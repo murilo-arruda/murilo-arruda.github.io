@@ -99,8 +99,7 @@ Mais projetos muito em breve!
 </section>
 <footer>
 <p>contatos:
-<span class="underline">murilo</span class="underline"><span>123kjhgk</span><span
-class="underline">arrudap@</span><span>12xzgk</span><span class="underline">gmail.com</span> ,
+muriloarrudap@gmail.com ,
 <a href="https://www.linkedin.com/in/muriloarruda/">LinkedIn</a> e
 <a href="https://github.com/murilo-arruda">Github</a>
 </p>
