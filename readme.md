@@ -15,42 +15,29 @@ com conhecimento de diversas tecnologias web e apaixonado por programação.
 Desenvolvimento Web:
 <ul>
 <li>
-  <span class="underline">React</span>,
-  <span class="underline"> Redux</span>,
-  <span class="underline"> Gastby</span>.
+  React, Redux, Gastby.
 </li>
 <li>
-  <span class="underline">Javascript</span>,
-  <span class="underline">Node.js</span>,
-  <span class="underline">npm</span>,
-  <span class="underline">express</span> e diversas outras
-  blibliotecas.
+  Javascript, Node.js, npm, express e diversas outras blibliotecas.
 </li>
 <li>Design Responsivo e moderno (Flexbox, Grids).</li>
 <li>
-  <span class="underline">AWS</span>,
-  <span class="underline">Google Cloud</span> e tecnologias
-  relacionadas a administração de servidores.
+  AWS, Google Cloud e tecnologias relacionadas a administração de servidores.
 </li>
 </ul>
 </li>
 
 <li>Test Driven Development.</li>
 <li>
-<span class="underline">Python</span>, com foco em ciência dos dados
-e desenvolimento backend.
+Python, com foco em ciência dos dados e desenvolimento backend.
 </li>
 <li>
 Logica de programação, código limpo, e conhecimento básico em
-diversas outras linguagens tais como:
-<span class="underline">C#</span> e
-<span class="underline">php</span> (Sempre aberto para aprender
+diversas outras linguagens tais como: C# e php (Sempre aberto para aprender
 mais).
 </li>
 <li>
-<span class="underline">Photoshop</span>,
-<span class="underline">Ilustrator</span> e
-<span class="underline">Adobe XD.</span>
+Photoshop, Ilustrator e Adobe XD.
 </li>
 <li>Inglês avançado.</li>
 </ul>
@@ -80,13 +67,13 @@ Front End Development Program - FreeCodeCamp -
 <h2>Projetos</h2>
 <ul>
 <li>
-<span class="underline">It logger</span> - Ferramenta de
+It logger - Ferramenta de
 gerenciamento de alertas na área de TI. React e Redux foram
 utilizados para gerenciar a aplicação e a interface -
 <a href="https://github.com/murilo-arruda/it-logger">Github</a>.
 </li>
 <li>
-<span class="underline">CLI To-do list</span> - Programa de linha de
+CLI To-do list - Programa de linha de
 comando feito em node.js e open source. Diversos desenvolvedores
 contribuiram durante o periodo da hacktoberfest para aprimorar o
 programa
@@ -99,8 +86,8 @@ Mais projetos muito em breve!
 </section>
 <footer>
 <p>contatos:
-muriloarrudap@gmail.com ,
-<a href="https://www.linkedin.com/in/muriloarruda/">LinkedIn</a> e
-<a href="https://github.com/murilo-arruda">Github</a>
+muriloarrudap@gmail.com e
+<a href="https://www.linkedin.com/in/muriloarruda/">LinkedIn</a>
+
 </p>
 <p>Murilo Arruda © - 2020 - Simple is better than complex.</p>
